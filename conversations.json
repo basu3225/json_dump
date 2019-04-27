@@ -1,0 +1,67 @@
+{
+	"conversations": [
+		{
+			"name": "Basavaraj",
+			"last_message": "Heelo",
+			"last_message_time": "3 mar 2018",
+			"messages": [
+				{
+					"content": "Hello",
+					"sender": {
+						"name": "Varun"
+					},
+					"sent_at": "2 mar 2019"
+				},
+				{
+					"content": "Hi",
+					"sender": {
+						"name": "Basavaraj"
+					},
+					"sent_at": "3 mar 2019"
+				}
+			]
+		},
+		{
+			"name": "Saravanan",
+			"last_message": "whatsup",
+			"last_message_time": "20 mar 2019",
+			"messages": [
+				{
+					"content": "whatsup",
+					"sender": {
+						"name": "Saravanan"
+					},
+					"sent_at": "20 mar 2019"
+				},
+				{
+					"content": "Nothing much",
+					"sender": {
+						"name": "Basavaraj"
+					},
+					"sent_at": "21 mar 2019"
+				}
+			]
+		},
+		{
+			"name": "Praveen",
+			"last_message": "Heelo",
+			"last_message_time": "7 mar 2018",
+			"messages": [
+				{
+					"content": "Hello",
+					"sender": {
+						"name": "Praveen"
+					},
+					"sent_at": "2 mar 2019"
+				},
+				{
+					"content": "Hi",
+					"sender": {
+						"name": "Ravi"
+					},
+					"sent_at": "3 mar 2019"
+				}
+			]
+		}
+	]
+}
